@@ -23,10 +23,8 @@ I’m Pratham Jaiswal, a Second Year Computer Engineering student at Pimpri Chin
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathamjaisnpj@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prathamjaiswal12)
 
-## 💬 Random Dev Quote
-
-> 💡 *“The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.”*  
-> — **Seymour Cray**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
