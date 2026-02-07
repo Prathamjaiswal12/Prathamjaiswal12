@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Pratham Jaiswal, a Second Year Computer Science student at Pimpri Chinchwad College of Engineering, who loves  exploring the worlds of technology. I'm currently working on my problem-solving skills, and I'm diving into web development to build clean, functional web interfaces. I'm currently focused on Data Structures & Algorithms to improve my logical thinking. I want to become a better version of myself every day.
+I’m Pratham Jaiswal, a Second Year Computer Engineering student at Pimpri Chinchwad College of Engineering, who loves  exploring the worlds of technology. I'm currently working on my problem-solving skills, and I'm diving into web development to build clean, functional web interfaces. I'm currently focused on Data Structures & Algorithms to improve my logical thinking. I want to become a better version of myself every day.
 
 ## 💻 Tech Stack
 
@@ -22,6 +22,12 @@ I’m Pratham Jaiswal, a Second Year Computer Science student at Pimpri Chinchwa
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-jaiswal-8a299632b/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathamjaisnpj@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prathamjaiswal12)
+
+## 💬 Random Dev Quote
+
+> 💡 *“The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.”*  
+> — **Seymour Cray**
+
 
 
 
