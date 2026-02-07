@@ -20,6 +20,9 @@ I’m Pratham Jaiswal, a Second Year Computer Science student at Pimpri Chinchwa
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prathamjaiswal12&show_icons=true&theme=radical)
+
 <!--
 **Prathamjaiswal12/Prathamjaiswal12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
