@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Pratham Jaiswal, a Second Year Computer Engineering student at Pimpri Chinchwad College of Engineering, who loves  exploring the worlds of technology. I'm currently working on my problem-solving skills, and I'm diving into web development to build clean, functional web interfaces. I'm currently focused on Data Structures & Algorithms to improve my logical thinking. I want to become a better version of myself every day.
+I’m Pratham Jaiswal, a Third Year Computer Engineering student at Pimpri Chinchwad College of Engineering, who loves  exploring the worlds of technology. I'm currently working on my problem-solving skills, and I'm diving into web development to build clean, functional web interfaces. I'm currently focused on Data Structures & Algorithms to improve my logical thinking. I want to become a better version of myself every day.
 
 ## 💻 Tech Stack
 
